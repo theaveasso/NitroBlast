@@ -1,0 +1,4 @@
+[submodule "Plugins/GASP-ALS"]
+	path = Plugins/GASP-ALS
+	url = git@github.com:theaveasso/GASP-ALS.git
+	branch = main
